@@ -32,7 +32,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-
+<!-- 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -40,7 +40,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -78,7 +78,7 @@
    -->
 </div>
 <div align="center">
-
+<!-- 
 <h3 align="left">Tools and languages:</h3>
 <p align="center">
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>  </a>
@@ -95,7 +95,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/>
  <a href="https://en.wikipedia.org/wiki/HTML5" target="html"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/>  </a>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/>
-</div>
+</div> -->
 
 <!--
 **shirs12/shirs12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
