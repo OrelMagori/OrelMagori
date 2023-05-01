@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Practical Software Engineering at Ariel University.\
 🌱 &nbsp;I work as Frontend Developer at Tarzo.\
 📫 &nbsp;You can shoot me an email at orelmagori@gmail.com!
